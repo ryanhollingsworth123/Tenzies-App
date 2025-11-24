@@ -10,4 +10,5 @@ export default defineConfig({
       },
     }),
   ],
+  base: "https://github.com/ryanhollingsworth123/Tenzies-App"
 })
